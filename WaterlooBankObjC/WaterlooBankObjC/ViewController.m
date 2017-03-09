@@ -98,9 +98,7 @@
 }
 
 - (void)registerUser:(NSString *)username {
-    
-    [IProov enrolWithServiceProviderWithServiceProvider:<#(NSString * _Nonnull)#> username:<#(NSString * _Nonnull)#> animated:<#(BOOL)#> success:<#^(NSString * _Nonnull)success#> failure:<#^(NSString * _Nonnull)failure#> error:<#^(NSError * _Nonnull)error#>]
-    
+
     [IProov enrolWithServiceProvider:WB_SERVICE_PROVIDER
                             username:username
                             animated:YES

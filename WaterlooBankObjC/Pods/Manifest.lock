@@ -28,7 +28,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   iProov:
-    :commit: 0aa45c5e3840065b81e4c560774ceafe9a24f289
+    :commit: 84fcc28ee9da090a8ea508c09cf43acef841900d
     :git: https://github.com/iProov/iproov-ios-pod.git
 
 SPEC CHECKSUMS:
